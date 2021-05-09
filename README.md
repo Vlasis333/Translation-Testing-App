@@ -3,9 +3,9 @@ A simple application (made using VB.net and SQL DB) that lets you insert a Germa
 
 Installation:
 
-Step 1: Download project
-Step 2: Install SQL Server Express 2014 (if not installed)
-Step 3: Add the .bak file to your data base (using SQL management studio)
+Step 1: Download project <br />
+Step 2: Install SQL Server Express 2014 (if not installed) <br />
+Step 3: Add the .bak file to your data base (using SQL management studio) <br />
 
 this steps are hard coded as this application I have made it for a friend and wanted to help her with that,
 and didnt make it thought code.
