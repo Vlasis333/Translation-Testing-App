@@ -15,13 +15,13 @@ Step 4: Run the executable file inside the original location (DON'T MOVE FILES)
 Enjoy.
 
 
-Small Bug Fix: (DO it before running the program)
-Step 1: Open SQL Management Studio
-Step 2: Run the following command
+Small Bug Fix: (DO it before running the program) <br />
+Step 1: Open SQL Management Studio <br />
+Step 2: Run the following command <br />
 
-USE [SiaDB]
-GO
+USE [SiaDB] <br />
+GO <br />
 
-ALTER TABLE [MainTable]
-ALTER COLUMN [German] nvarchar(200)
-GO
+ALTER TABLE [MainTable] <br />
+ALTER COLUMN [German] nvarchar(200) <br />
+GO <br />
