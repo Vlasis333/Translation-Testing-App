@@ -13,3 +13,15 @@ and didnt make it thought code.
 Step 4: Run the executable file inside the original location (DON'T MOVE FILES)
 
 Enjoy.
+
+
+Small Bug Fix: (DO it before running the program)
+Step 1: Open SQL Management Studio
+Step 2: Run the following command
+
+USE [SiaDB]
+GO
+
+ALTER TABLE [MainTable]
+ALTER COLUMN [German] nvarchar(200)
+GO
