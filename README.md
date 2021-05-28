@@ -14,7 +14,7 @@ Step 4: Run the executable file inside the original location (DON'T MOVE FILES)
 
 Enjoy.
 
-
+<br />
 Small Bug Fix: (DO it before running the program) <br />
 Step 1: Open SQL Management Studio <br />
 Step 2: Run the following command <br />
