@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SiaGermanToEnglishApp", "SiaGermanToEnglishApp\SiaGermanToEnglishApp.vbproj", "{C8D8A6AF-EDC5-4EF8-8A79-E50018A0275B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D8A6AF-EDC5-4EF8-8A79-E50018A0275B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D8A6AF-EDC5-4EF8-8A79-E50018A0275B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D8A6AF-EDC5-4EF8-8A79-E50018A0275B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D8A6AF-EDC5-4EF8-8A79-E50018A0275B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C338C7-09DA-492B-913B-6C48C6AD5A4A}
+	EndGlobalSection
+EndGlobal

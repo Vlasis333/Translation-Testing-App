@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\bin\Debug\SiaGermanToEnglishApp.exe.config
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\bin\Debug\SiaGermanToEnglishApp.exe
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\bin\Debug\SiaGermanToEnglishApp.pdb
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\bin\Debug\SiaGermanToEnglishApp.xml
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.MainForm.resources
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.Resources.resources
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.exe
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.xml
+C:\Users\User\source\repos\SiaGermanToEnglishApp\SiaGermanToEnglishApp\obj\Debug\SiaGermanToEnglishApp.pdb
